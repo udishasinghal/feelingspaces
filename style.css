@@ -1,0 +1,20 @@
+body{
+    background-image: url(./public/HOMEPAGE.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    background-color:white;
+}
+
+#button{
+    position: relative;
+    top: 615px;
+    left: 720px;
+
+}
+
+#btn{
+    height: 40px;
+    width: 250px;
+    text-decoration: grey;
+}
